@@ -1,9 +1,9 @@
+
+![Web Developer](https://i.ibb.co/VwPNpr2/develop-full-mern-stack-web-application-and-website.jpg)
 ## Hello, I'm Naimur Rahman
 ##### Web Developer
-![Web Developer](https://i.ibb.co/VwPNpr2/develop-full-mern-stack-web-application-and-website.jpg)
-
 I am a passionate JavaScript Programmer and Web Developer experienced within building projects at MERN stack.
-
+<br/><br/><br/>
 Skills:  HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB
 
 - 🔭 I’m currently working on Study Buddies <br/> LiveSite: https://study-buddies-bb960.web.app/ 
