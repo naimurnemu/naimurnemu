@@ -1,5 +1,5 @@
 # Hello, Here Naimur Rahman!
-###I'm a passionate JavaScript Programmer and Web Developer experienced within building projects at MERN stack.
+### I'm a passionate JavaScript Programmer and Web Developer experienced within building projects at MERN stack.
 
 - 🌱 I’m currently learning on Programming Hero.
 - 🤔 I’m looking for a Junior Full-Stack developer Position. 
