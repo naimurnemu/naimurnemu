@@ -13,7 +13,7 @@ Skills:  HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB
 - ⚡ Fun fact: I am Studying Now!! 
 
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/naimurnemu)-->
+
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/naimurnemu//) 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/naimurnemu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aboutnaimur.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/affinitypublisher.svg' alt='affinitypublisher' height='40'>](https://drive.google.com/file/d/1dBple9fxHmNQp6nzJezUEdOFaVevNnfH/view)   
 
