@@ -2,9 +2,9 @@
 ![Web Developer](https://i.ibb.co/VwPNpr2/develop-full-mern-stack-web-application-and-website.jpg)
 ## Hello, I'm Naimur Rahman
 ##### Web Developer
-I am a passionate JavaScript Programmer and Web Developer experienced within building projects at MERN stack.
+A Programmer with a passion for Frontend development; Building Single Page Applications with MERN.
 <br/><br/><br/>
-Skills:  HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB
+Skills:  ES6+, React, MUI, GraphQL, RestAPI, NodeJS, ExpressJS, MongoDB
 
 - 🔭 I’m currently working on MedLinkJobs <br/> LiveSite: https://www.medlinkjobs.com/ 
 - 🌱 I’m currently learning React-Redux, React-TypeScript, NextJS 
