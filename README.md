@@ -1,7 +1,7 @@
 
 ![Web Developer](https://i.ibb.co/VwPNpr2/develop-full-mern-stack-web-application-and-website.jpg)
 ## Hello, I'm Naimur Rahman
-##### Web Developer
+##### FrontEnd Engineer
 A Programmer with a passion for Frontend development; Building Single Page Applications with MERN.
 <br/><br/><br/>
 Skills:  ES6+, React, MUI, GraphQL, RestAPI, NodeJS, ExpressJS, MongoDB
