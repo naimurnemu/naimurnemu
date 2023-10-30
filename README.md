@@ -1,5 +1,5 @@
 
-![Web Developer](https://i.ibb.co/VwPNpr2/develop-full-mern-stack-web-application-and-website.jpg)
+<!--![Web Developer](https://i.ibb.co/VwPNpr2/develop-full-mern-stack-web-application-and-website.jpg) -->
 # Hello, 
 ## I am known as Naimur Rahman. 
 ### Efficient with MERN Stack.
