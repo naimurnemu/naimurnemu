@@ -72,9 +72,6 @@ I'm passionate about building innovative and user-friendly web applications that
   </a>
 </p>
 
-
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/naimurnemu">
