@@ -11,7 +11,6 @@ I'm passionate about building innovative and user-friendly web applications that
 *   ✉️  Contact me at [naimurrahaman82@gmail.com](mailto:naimurrahaman82@gmail.com)
 *   🧠  Currently learning NextJS
 *   💬  Ask me about JavaScript, ES6+, React, MUI, GraphQL, RestAPI, React-Redux 
-*   📫  Reach me at: naimurrahaman82@gmail.com 
 *   🤝  Open to collaborating on ReactJS Environment.
 *   ⚡   Love to share MeMes 
 
