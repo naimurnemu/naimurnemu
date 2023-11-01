@@ -1,7 +1,7 @@
 
 <!--![Web Developer](https://i.ibb.co/VwPNpr2/develop-full-mern-stack-web-application-and-website.jpg) -->
 # Hello, 
-## I am known as Naimur Rahman. 
+## I am known as Naimur Rahman Hridoy. 
 ### Efficient with MERN Stack.
 
 I'm passionate about building innovative and user-friendly web applications that solve real-world problems. I'm confident that I can bring my skills and experience to your project and help you achieve your goals.
