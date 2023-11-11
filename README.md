@@ -7,7 +7,7 @@
 I'm passionate about building innovative and user-friendly web applications that solve real-world problems. I'm confident that I can bring my skills and experience to your project and help you achieve your goals.
 
 *   🌍  Based in Dhaka, Bangladesh
-*   🖥️  See portfolio at [https://aboutnaimur.netlify.app/](http://aboutnaimur.netlify.app)
+*   🖥️  See portfolio at [https://dev-naimurrahman.netlify.app/](https://dev-naimurrahman.netlify.app/)
 *   ✉️  Contact me at [naimurrahaman82@gmail.com](mailto:naimurrahaman82@gmail.com)
 *   🧠  Currently learning NextJS
 *   💬  Ask me about JavaScript, ES6+, React, MUI, GraphQL, RestAPI, React-Redux 
