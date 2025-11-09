@@ -13,8 +13,8 @@ With a strong background in **JavaScript ecosystems** and solid **data structure
 - 🌍 Based in **Dhaka, Bangladesh**  
 - 🖥️ Portfolio → [dev-naimurrahman.netlify.app](https://dev-naimurrahman.netlify.app/)  
 - ✉️ Reach me → [naimurrahaman82@gmail.com](mailto:naimurrahaman82@gmail.com)  
-- 🧩 Currently learning **Next.js & GraphQL**  
-- 💬 Ask me about **JavaScript, React, Redux, Node.js, MUI, REST APIs**  
+- 🧩 Currently learning **Next.js & Engineering Philosophy**  
+- 💬 Ask me about **JavaScript, TypeScript, React, Redux, Node.js, MUI, REST APIs**  
 - 🧠 Strong in **DSA, debugging, and analytical problem-solving**  
 - 🧭 Experienced in **team coordination, version control, and project association** 
 - ⚡ Fun fact → I love sharing **memes while coding** 😄  
